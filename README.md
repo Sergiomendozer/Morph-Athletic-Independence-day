@@ -11,4 +11,4 @@ HTML, CSS
 [View Project](https://sergiomendozer.github.io/Morph-Athletic-Independence-day/)
 
 ## Project Image
-<a href="url"><img src="/july-sale.png"  height="500" width="350" ></a>
+<a href="url"><img src="/july-sale.png"  height="600" width="350" ></a>
